@@ -21,6 +21,7 @@ from app.schemas.common import SuccessResponse
 from app.schemas.seat import SeatResponse
 from app.services.booking_service import BookingError
 
+
 router = APIRouter()
 
 
